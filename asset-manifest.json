@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Birbz/static/css/main.9ffd1646.css",
+    "main.js": "/Birbz/static/js/main.b999a3a6.js",
+    "static/js/787.cddff518.chunk.js": "/Birbz/static/js/787.cddff518.chunk.js",
+    "static/media/birbz.png": "/Birbz/static/media/birbz.b3d5e0fbd1963c41eb38.png",
+    "static/media/mint.png": "/Birbz/static/media/mint.112009ae6d95da28ae6c.png",
+    "static/media/NeueMachina-Medium.ttf": "/Birbz/static/media/NeueMachina-Medium.f720034f1ca535bd98d9.ttf",
+    "static/media/sparkle.png": "/Birbz/static/media/sparkle.521ad9dac3d55bb522af.png",
+    "index.html": "/Birbz/index.html",
+    "main.9ffd1646.css.map": "/Birbz/static/css/main.9ffd1646.css.map",
+    "main.b999a3a6.js.map": "/Birbz/static/js/main.b999a3a6.js.map",
+    "787.cddff518.chunk.js.map": "/Birbz/static/js/787.cddff518.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ffd1646.css",
+    "static/js/main.b999a3a6.js"
+  ]
+}
